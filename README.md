@@ -16,8 +16,9 @@ licensed and run by clients on their own broker accounts: non-custodial by desig
 
 **Public work**
 
-- [NexusQuant](https://github.com/hadisoufi20/NexusQuant) — agentic market-structure analysis (LangGraph · Groq · ICT/Wyckoff logic)
-- [reliable-ai-workflow-engine](https://github.com/hadisoufi20/reliable-ai-workflow-engine) — rule-based autonomous workflow with deterministic control
+- [deterministic-control-reference](https://github.com/hadisoufi20/deterministic-control-reference) — reference implementation of the three-layer control architecture: revocable authority, decision journal, deterministic replay (26 tests)
+- [reliable-ai-workflow-engine](https://github.com/hadisoufi20/reliable-ai-workflow-engine) — rule-based autonomous workflow with an enforced lifecycle and an audit trail (11 tests)
+- [NexusQuant](https://github.com/hadisoufi20/NexusQuant) — agentic market-structure analysis (LangGraph · Groq · ICT/Wyckoff logic) (9 tests)
 
 **Identity**
 
