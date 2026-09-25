@@ -30,13 +30,13 @@ full agent activation and live-account validation.
 
 ### Links
 
-[Homepage](https://hadisoufi20.github.io/) ·
-[ZVAKTHOR overview](https://hadisoufi20.github.io/zvakthor/) ·
+[Homepage](https://hadisoufi.com/) ·
+[ZVAKTHOR overview](https://hadisoufi.com/zvakthor/) ·
 [ORCID 0009-0009-4656-5983](https://orcid.org/0009-0009-4656-5983) ·
 [SSRN](https://ssrn.com/author=13197688) ·
 [LinkedIn](https://www.linkedin.com/in/hadi-soufi-463170266) ·
 [Books on Amazon](https://www.amazon.com/stores/author/B0GQ66415M) ·
-hadisoufi20@gmail.com
+hadi@hadisoufi.com
 
 ---
 
