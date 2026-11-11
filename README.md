@@ -20,6 +20,8 @@ full agent activation and live-account validation.
 3. [A Three-Layer Reference Architecture for Deterministic Control in Agentic Trading Systems](https://ssrn.com/abstract=7488978)
 4. [Why Discovery Layers Guarantee Crowded Alpha: A Design Case for Quality-Diversity Search in Agentic Trading Systems](https://ssrn.com/abstract=7488920)
 5. [Order Invariance at the Last Language-Model Boundary: A Pre-Registered Test of an LLM Evidence Synthesizer Inside a Deterministic Trading Architecture](https://ssrn.com/abstract=7539442)
+6. [Direction Instability in an LLM Evidence Synthesizer: A Pre-Registered Two-Wave Study of Recorded Trading Inputs](https://ssrn.com/abstract=7681837)
+
 ### Public reference implementations
 
 | Repository | What it demonstrates | Tests |
